@@ -1,0 +1,395 @@
+
+
+----SNAPSHOT----(24 April 2022 21:18:15) EJ1.image priorSource: 4549442!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:32'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:32'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:32'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:32'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:32'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:32'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:33'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:33'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:33'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:35'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:35'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:35'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:35'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:36'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:36'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:36'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:36'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:38'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:38'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:38'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 21:30:38'!
+PASSED!
+!HabitatDeAvispas class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:35:29' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	cantidadDePolillas := 0.
+	cantidadDeHuevosDeAvispas := 0.
+	cantidadDeOrugas := 0.
+	firmasGeneticas := ((Dictionary new)).! !
+!LaAvispaLara class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:35:29' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	habitat := HabitatDeAvispas.
+	firmaGenetica := 'L'.! !
+!LaAvispaOriana2 class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:35:29' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.! !
+!LaAvispaOrnella class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:35:30' overrides: 50477622!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.! !
+!LaAvispaPolly class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:35:30' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'P'.
+	habitat := HabitatDeAvispas.! !
+!PruebasReproduccionDeAvispas class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:35:30' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := nil.! !
+
+!methodRemoval: HabitatDeAvispas class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:35:30'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	cantidadDePolillas := 0.
+	cantidadDeHuevosDeAvispas := 0.
+	cantidadDeOrugas := 0.
+	firmasGeneticas := ((Dictionary new)).!
+
+!methodRemoval: LaAvispaLara class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:35:30'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	habitat := HabitatDeAvispas.
+	firmaGenetica := 'L'.!
+
+!methodRemoval: LaAvispaOriana2 class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:35:30'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: LaAvispaOrnella class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:35:30'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: LaAvispaPolly class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:35:30'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'P'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: PruebasReproduccionDeAvispas class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:35:30'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := nil.!
+!HabitatDeAvispas class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:36:07' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	cantidadDePolillas := 0.
+	cantidadDeHuevosDeAvispas := 0.
+	cantidadDeOrugas := 0.
+	firmasGeneticas := ((Dictionary new)).! !
+!LaAvispaLara class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:36:07' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	habitat := HabitatDeAvispas.
+	firmaGenetica := 'L'.! !
+!LaAvispaOriana2 class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:36:07' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.! !
+!LaAvispaOrnella class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:36:07' overrides: 50477728!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.! !
+!LaAvispaPolly class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:36:07' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'P'.
+	habitat := HabitatDeAvispas.! !
+!PruebasReproduccionDeAvispas class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 21:36:07' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := nil.! !
+
+!methodRemoval: HabitatDeAvispas class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:36:07'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	cantidadDePolillas := 0.
+	cantidadDeHuevosDeAvispas := 0.
+	cantidadDeOrugas := 0.
+	firmasGeneticas := ((Dictionary new)).!
+
+!methodRemoval: LaAvispaLara class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:36:07'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	habitat := HabitatDeAvispas.
+	firmaGenetica := 'L'.!
+
+!methodRemoval: LaAvispaOriana2 class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:36:07'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: LaAvispaOrnella class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:36:07'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: LaAvispaPolly class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:36:07'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'P'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: PruebasReproduccionDeAvispas class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 21:36:08'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := nil.!
+!LaAvispaOriana2 class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 21:43:11' prior: 50477275!
+intentarReproducirse
+	(habitat cantidadDeOrugas >= 1) ifTrue: [
+		habitat consumirOruga.
+		habitat agregarHuevoDeAvispaConFirmaGenetica: firmaGenetica.
+	].! !
+!LaAvispaOriana2 class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 21:43:26' prior: 50477813!
+intentarReproducirse
+	(habitat cantidadDeOrugas >= 1) ifTrue: [
+		habitat consumirOruga.
+		habitat agregarHuevoDeAvispaConFirmaGenetica: firmaGenetica.
+	].! !
+!LaAvispaPolly class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 21:44:24' prior: 50477284!
+intentarReproducirse
+	(habitat cantidadDePolillas >= 1) ifTrue: [
+		habitat consumirPolilla.
+		habitat agregarHuevoDeAvispaConFirmaGenetica: firmaGenetica.
+	].! !
+
+!methodRemoval: HabitatDeAvispas class #agregarHuevoDeAvispa stamp: 'AR 4/24/2022 21:47:36'!
+agregarHuevoDeAvispa
+	cantidadDeHuevosDeAvispas  := cantidadDeHuevosDeAvispas + 1.!
+!HabitatDeAvispas class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 21:49:53' prior: 50475049!
+agregarHuevoDeAvispaConFirmaGenetica: firmaGenetica
+	|huevosConFirmaGenetica|
+	huevosConFirmaGenetica := self cantidadDeHuevosDeAvispaConFirmaGenetica: firmaGenetica .	
+	firmasGeneticas at: firmaGenetica put: huevosConFirmaGenetica + 1.
+! !
+!HabitatDeAvispas class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 21:54:18' prior: 50476791!
+eliminarHuevoDeAvispaConFirmaGenetica: firmaGenetica
+	|cantidadDeHuevosDeAvispaConFirmaGenetica|
+	cantidadDeHuevosDeAvispaConFirmaGenetica  := self cantidadDeHuevosDeAvispaConFirmaGenetica: firmaGenetica.
+	firmasGeneticas at: firmaGenetica put: cantidadDeHuevosDeAvispaConFirmaGenetica - 1.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 21:58:17' prior: 50477500!
+cantidadDeHuevosConLaFirmaGeneticaDeOrnella
+	^self habitat cantidadDeHuevosDeAvispaConFirmaGenetica: self laAvispaOrnella firmaGenetica.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 21:58:52' prior: 50477159!
+cantidadDeHuevosConLaFirmaGeneticaDePolly
+	^self habitat cantidadDeHuevosDeAvispaConFirmaGenetica: (self laAvispaPolly firmaGenetica).! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 21:59:04' prior: 50477307!
+cantidadDeHuevosConLaFirmaGeneticaDeOriana
+	^self habitat cantidadDeHuevosDeAvispaConFirmaGenetica: (self laAvispaOriana firmaGenetica).! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 21:59:55' prior: 50474913!
+queElHabitatTengaDosPolillasMas
+	self habitat agregarPolilla.
+	self habitat agregarPolilla.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 22:00:02' prior: 50474514!
+queElHabitatTengaUnaOrugaMas
+	self habitat agregarOruga.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 22:01:19' prior: 50474882!
+queElHabitatTengaUnaPolillaMas
+	self habitat agregarPolilla.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 22:01:57' prior: 50474462!
+retrocederElHabitatAlInicioDeLosTiempos
+	self habitat reiniciar.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 22:03:18' prior: 50474831!
+hacerQueElHabitatTengaLosRecursosSuficientes
+	self habitat agregarOruga.
+	self habitat agregarOruga.
+	self habitat agregarPolilla.
+	self habitat agregarPolilla.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'Para completar' stamp: 'AR 4/24/2022 22:03:57' prior: 50477126!
+cantidadDeHuevosConLaFirmaGeneticaDeLara
+	^self habitat cantidadDeHuevosDeAvispaConFirmaGenetica: self laAvispaLara firmaGenetica.! !
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:49'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:49'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:49'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:49'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:49'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:49'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:52'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:52'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:52'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:55'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:55'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:55'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:55'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:58'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:58'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:58'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:09:58'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:10:02'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:10:02'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:10:02'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'AR 4/24/2022 22:10:02'!
+PASSED!
+!HabitatDeAvispas class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 22:14:55'!
+retrocederAlInicio
+	cantidadDeHuevosDeAvispas  := 0.
+	cantidadDeOrugas := 0.
+	cantidadDePolillas := 0.
+	firmasGeneticas := Dictionary new.! !
+!PruebasReproduccionDeAvispas class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 22:14:55' prior: 50477912!
+retrocederElHabitatAlInicioDeLosTiempos
+	self habitat retrocederAlInicio.! !
+
+!methodRemoval: HabitatDeAvispas class #reiniciar stamp: 'AR 4/24/2022 22:14:55'!
+reiniciar
+	cantidadDeHuevosDeAvispas  := 0.
+	cantidadDeOrugas := 0.
+	cantidadDePolillas := 0.
+	firmasGeneticas := Dictionary new.!
+!HabitatDeAvispas class methodsFor: 'consumir' stamp: 'AR 4/24/2022 22:28:54'!
+consumirHuevoDeAvispaConFirmaGenetica: firmaGenetica
+	|cantidadDeHuevosDeAvispaConFirmaGenetica|
+	cantidadDeHuevosDeAvispaConFirmaGenetica  := self cantidadDeHuevosDeAvispaConFirmaGenetica: firmaGenetica.
+	firmasGeneticas at: firmaGenetica put: cantidadDeHuevosDeAvispaConFirmaGenetica - 1.! !
+!LaAvispaLara class methodsFor: 'as yet unclassified' stamp: 'AR 4/24/2022 22:28:54' prior: 50477240!
+intentarReproducirse
+	(habitat cantidadDeHuevosDeAvispaConFirmaGenetica: LaAvispaOriana2 firmaGenetica) >=1 ifTrue: [
+		habitat consumirHuevoDeAvispaConFirmaGenetica: LaAvispaOriana2 firmaGenetica.
+		habitat agregarHuevoDeAvispaConFirmaGenetica: firmaGenetica.
+	]  ifFalse: [ 
+		(habitat cantidadDeHuevosDeAvispaConFirmaGenetica: LaAvispaPolly firmaGenetica) >=1 ifTrue: [
+			habitat consumirHuevoDeAvispaConFirmaGenetica: LaAvispaPolly firmaGenetica.
+			habitat agregarHuevoDeAvispaConFirmaGenetica: firmaGenetica.
+		]
+	].! !
+
+!methodRemoval: HabitatDeAvispas class #eliminarHuevoDeAvispaConFirmaGenetica: stamp: 'AR 4/24/2022 22:28:54'!
+eliminarHuevoDeAvispaConFirmaGenetica: firmaGenetica
+	|cantidadDeHuevosDeAvispaConFirmaGenetica|
+	cantidadDeHuevosDeAvispaConFirmaGenetica  := self cantidadDeHuevosDeAvispaConFirmaGenetica: firmaGenetica.
+	firmasGeneticas at: firmaGenetica put: cantidadDeHuevosDeAvispaConFirmaGenetica - 1.!

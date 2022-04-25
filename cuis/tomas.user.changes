@@ -1,0 +1,85 @@
+
+
+----SNAPSHOT----(24 April 2022 22:32:26) tomas.image priorSource: 4668341!
+!HabitatDeAvispas class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 22:32:51' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	cantidadDePolillas := 0.
+	cantidadDeHuevosDeAvispas := 0.
+	cantidadDeOrugas := 0.
+	firmasGeneticas := ((Dictionary new)).! !
+!LaAvispaLara class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 22:32:51' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	habitat := HabitatDeAvispas.
+	firmaGenetica := 'L'.! !
+!LaAvispaOriana2 class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 22:32:51' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.! !
+!LaAvispaOrnella class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 22:32:51' overrides: 50478086!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.! !
+!LaAvispaPolly class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 22:32:51' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'P'.
+	habitat := HabitatDeAvispas.! !
+!PruebasReproduccionDeAvispas class methodsFor: '--** private fileout/in **--' stamp: 'AR 4/24/2022 22:32:51' overrides: 50447471!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := nil.! !
+
+!methodRemoval: HabitatDeAvispas class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 22:32:51'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	cantidadDePolillas := 0.
+	cantidadDeHuevosDeAvispas := 0.
+	cantidadDeOrugas := 0.
+	firmasGeneticas := ((Dictionary new)).!
+
+!methodRemoval: LaAvispaLara class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 22:32:51'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	habitat := HabitatDeAvispas.
+	firmaGenetica := 'L'.!
+
+!methodRemoval: LaAvispaOriana2 class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 22:32:51'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: LaAvispaOrnella class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 22:32:51'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: LaAvispaPolly class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 22:32:51'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'P'.
+	habitat := HabitatDeAvispas.!
+
+!methodRemoval: PruebasReproduccionDeAvispas class #initializeCollaboratorsFromFile stamp: 'AR 4/24/2022 22:32:51'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	firmaGenetica := 'OR'.
+	habitat := nil.!
